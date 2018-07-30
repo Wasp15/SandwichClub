@@ -13,6 +13,13 @@
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
 
+    <!-- Temp strings for layout build purposes -->
+    <string name="main_name">Vada Pav</string>
+    <string name="also_known_as">Bombay Burger</string>
+    <string name="place_of_origin">India</string>
+    <string name="description">Vada Pav is a vegetarian fast food dish native to the Indian state of Maharashtra. The dish consists of a deep fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle. It is generally accompanied with one or more chutneys and a green chilli pepper. It originated as cheap street food in Mumbai, but is now served in food stalls and restaurants across India. It is also called Bombay Burger in keeping with its origins and its resemblance in physical form to a burger</string>
+    <string name="ingredients">Deep-fried potato patty</string>
+
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
         <item>Bosna</item>
